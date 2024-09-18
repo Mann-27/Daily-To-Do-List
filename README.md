@@ -3,6 +3,6 @@ The Todo-list web application allows users to efficiently manage tasks through s
 
 
 
-The Todo-list web application is a straightforward yet highly functional project that I've developed, incorporating CRUD (Create, Read, Update, Delete) operations and local storage functionality. Overcoming the need of a database, we can directly fetch and view the data on the browser itself with the magic of local storage.
+The Todo-list web application is a straightforward yet highly functional project that I've developed, incorporating CRUD (Create, Read, Update, Delete) operations and local storage functionality. 
 This is my first web development project which I developed through self learning and hands-on-practise on javascript and responsive web design.
 Learned basics of git through this project.
